@@ -54,7 +54,7 @@
     "libp2p-mdns": "~0.7.0",
     "libp2p-multiplex": "~0.4.3",
     "libp2p-railing": "~0.5.1",
-    "libp2p-secio": "~0.6.8",
+    "libp2p-secio": "~0.13.1",
     "libp2p-spdy": "~0.10.6",
     "libp2p-swarm": "~0.29.1",
     "libp2p-tcp": "~0.10.1",
