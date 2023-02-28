@@ -50,7 +50,7 @@
   },
   "dependencies": {
     "libp2p": "~0.9.1",
-    "libp2p-kad-dht": "~0.1.0",
+    "libp2p-kad-dht": "~0.28.6",
     "libp2p-mdns": "~0.7.0",
     "libp2p-multiplex": "~0.4.3",
     "libp2p-railing": "~0.5.1",
