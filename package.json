@@ -49,7 +49,7 @@
     "wrtc": "0.0.63"
   },
   "dependencies": {
-    "libp2p": "~0.9.1",
+    "libp2p": "~0.42.2",
     "libp2p-kad-dht": "~0.1.0",
     "libp2p-mdns": "~0.7.0",
     "libp2p-multiplex": "~0.4.3",
